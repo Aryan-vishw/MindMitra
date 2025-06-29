@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain_community
+openai
+python-dotenv
+Pillow
+google-auth  # if using Google API auth anywhere

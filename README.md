@@ -1,6 +1,6 @@
-# 🧠 WellNest AI
+# 🧠 MindMitra
 
-WellNest AI is an intelligent mental health assistant built using OpenAI-powered large language models and LangChain. It helps users with emotional wellness, guidance, and mindfulness support through interactive conversations. Ideal for chatbot-based therapy, self-reflection, and psychological well-being applications.
+MindMitra is an intelligent mental health assistant built using OpenAI-powered large language models and LangChain. It helps users with emotional wellness, guidance, and mindfulness support through interactive conversations. Ideal for chatbot-based therapy, self-reflection, and psychological well-being applications.
 
 ---
 
@@ -17,7 +17,7 @@ WellNest AI is an intelligent mental health assistant built using OpenAI-powered
 ## 📂 Project Structure
 
 ```bash
-WellNest-AI/
+MindMitra/
 ├── app.py                     # Main script to run the app
 ├── agent/                     # Agent configuration and prompt engineering
 ├── tools/                     # Custom tools or functions for agent
